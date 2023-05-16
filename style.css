@@ -1,3 +1,43 @@
-body {
-
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+li{
+  float: right;
+}
+li a{
+  padding: 20px;
+  color: #f4acb7;
+  text-decoration: none;
+  border: double;
+  
+}
+li a:hover{
+  background-color: white;
+  color: grey;
+}
+body{
+  background-image: linear-gradient(to bottom right, #f7d6e0, #f5e0df);
+ 
+}
+h1{
+  color: #f5f3f4;
+  font-size: 50px;
+  text-decoration: underline;
+  text-decoration-color: #f5f3f4;
+}
+p{
+  color: #f4acb7;
+  font-size: 30px;
+  font-family: Comic Sans MS;
+}
+img{
+  width: 600px;
+  border-style: groove;
+  border-color: white;
+  border-width: 7px;
+   border-radius: 18px;
+  height: 600px;
+iframe{
+  border-style: double;
 }
