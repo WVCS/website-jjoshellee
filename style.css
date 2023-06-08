@@ -32,12 +32,11 @@ p{
   font-family: Comic Sans MS;
 }
 img{
-  width: 600px;
+
   border-style: groove;
   border-color: white;
   border-width: 7px;
    border-radius: 18px;
-  height: 600px;
 iframe{
   border-style: double;
 }
